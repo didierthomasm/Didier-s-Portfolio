@@ -1,0 +1,72 @@
+:root {
+    --plum: #963484;
+    --true-blue: #3066BE;
+    --argentinian-blue: #60AFFF;
+    --deep-sky-blue: #28C2FF;
+    --aqua: #2AF5FF;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/*Header styles*/
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--true-blue);
+    border-bottom: 1px solid var(--argentinian-blue);
+}
+
+header h1 {
+    margin: 0 1.2rem;
+    color: white;
+}
+
+header nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+header nav ul li {
+    margin-right: 1.3rem;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/*About styles*/
+section#about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#about img {
+    width: 8rem;
+    margin: 4px;
+    border: 2px solid var(--deep-sky-blue);
+}
+
+/*Work styles*/
+section#work .image-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.work-sample img {
+    width: 40rem;
+}
+
+/*Footer styles*/
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--true-blue);
+    border-top: 1px solid var(--argentinian-blue);
+}
