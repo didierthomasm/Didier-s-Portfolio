@@ -11,6 +11,7 @@ Welcome to my portfolio webpage! This webpage showcases my work and provides an 
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Deployment](#deployment)
 
 ## Introduction
 
@@ -54,6 +55,6 @@ If you have any questions or want to connect, feel free to reach out to me:
 - Github: [Your LinkedIn Profile](https://github.com/didierthomasm/D)
 
 
-## Link to the deploy
+## Deployment
 <https://didierthomasm.github.io/Didier-s-Portfolio/>
 
