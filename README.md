@@ -34,7 +34,7 @@ The webpage is built using the following technologies:
 
 To use this portfolio webpage, simply follow these steps:
 
-1. Clone the repository or download the source code.
+1. Clone the repository from <https://github.com/didierthomasm/Didier-s-Portfolio> or download the source code.
 2. Open the `index.html` file in your web browser.
 3. Explore the different sections of the webpage to learn about my work and skills.
 
