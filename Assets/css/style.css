@@ -171,6 +171,10 @@ footer ul {
     margin: .5rem;
 }
 
+footer ul li {
+    border-bottom: solid #963484;    
+}
+
 footer ul li a {
     color: white;
     text-decoration: none;

@@ -52,9 +52,10 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or want to connect, feel free to reach out to me:
 
 - Email: didierthomas.m@gmail.com
-- Github: [Your LinkedIn Profile](https://github.com/didierthomasm/D)
+- Github: [didierthomasm](https://github.com/didierthomasm/D)
 
 
 ## Deployment
 <https://didierthomasm.github.io/Didier-s-Portfolio/>
-
+<br>
+<img src="./Assets/images/Didier's%20Portfolio_page-0001.jpg" alt="Page sample" width=250px>
